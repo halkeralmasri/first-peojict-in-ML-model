@@ -42,3 +42,5 @@ Ensure you have Python installed along with the required libraries:
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
+
+git clone [https://github.com/YourGitHubUsername/Car-Price-Prediction.git](https://github.com/YourGitHubUsername/Car-Price-Prediction.git)
